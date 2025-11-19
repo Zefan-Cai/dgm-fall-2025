@@ -98,7 +98,7 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 
 **Date:** Monday, December 8 and Wednesday, December 10.
 
-- **Format**: Each team will deliver a **7-minute presentation** in class, summarizing their project. Presentations will include a brief introduction, methods overview, key findings, and future directions. This is the only portion of the project that will have individual (per-person) grades, so make sure every group member contributes to the presentation.
+- **Format**: Each team will deliver a **4-minute presentation** in class, summarizing their project. Presentations will include a brief introduction, methods overview, key findings, and future directions. This is the only portion of the project that will have individual (per-person) grades, so make sure every group member contributes to the presentation.
 
 - **Recommended Content** (but please adapt to fit your project): Title slide; Executive summary; Problem; State of the Field; Method; Results; Limitations / Next Steps; Takeaway
 
@@ -107,7 +107,7 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 - **Grading**:
   - 30%: Clarity and engagement of presentation.
   - 40%: Depth and quality of content.
-  - 30%: Use of visuals and adherence to time limits.
+  - 30%: Use of visuals and adherence to time limits (3-5 minutes so we can fit all groups in the lecture time).
   
 ---
 
@@ -122,7 +122,7 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
     - Introduction
     - Background & Related Work (synthesize the related works into a narrative that places your work in context)
     - Methods
-    - Experiments 
+    - Experiments
     - Discussion (limitations, broader impact, etc.)
     - Conclusions
     - Reference (separate page using `\clearpage`)
