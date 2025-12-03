@@ -155,6 +155,7 @@
   title: <strong>Diffusion Models</strong>
   logistics: Project Midway Report Due
   slides: "/dgm-fall-2025/assets/lectures/Lecture_18_diffusion.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-18"
 
 - title: "Module 4: Large Language Models"
 
@@ -166,6 +167,7 @@
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/rnn.html">Deep learning book</a>, Ch. 10
   logistics: HW4 Out
   slides: "/dgm-fall-2025/assets/lectures/Lecture_19_rnns.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-19"
 
 - date: 11/12
   lecturer: Prof. Lengerich
@@ -176,6 +178,7 @@
     - Raschka, <a href="https://www.youtube.com/watch?v=-Ll8DtpNtvk&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&index=2">Build an LLM from Scratch 3</a> (video)
     - Sanderson, <a href="https://www.youtube.com/watch?v=KJtZARuO3JY">Visualizing transformers and attention</a> (video)
   slides: "/dgm-fall-2025/assets/lectures/Lecture_20_attention.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-20"
 
 - date: 11/17
   lecturer: Prof. Lengerich
@@ -187,6 +190,7 @@
     - Raschka, <a href="https://www.youtube.com/watch?v=YSAkgEarBGE&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm">Build an LLM from Scratch 4</a> (video)
     - Karpathy, <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Let's Build GPT from Scratch </a>(video)
   slides: "/dgm-fall-2025/assets/lectures/Lecture_21_gpt.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-21"
 
 - date: 11/19
   lecturer: Prof. Lengerich
@@ -196,6 +200,7 @@
     - Liu et al., <a href="https://arxiv.org/abs/2405.04434">DeepSeekV2 A Strong, Economical, and Efficient Mixture-of-Experts Language Model</a>
     - Liu et al., <a href="https://arxiv.org/abs/2412.19437">DeepSeekV3 Technical Report</a>
   slides: "/dgm-fall-2025/assets/lectures/Lecture_22_pretraining.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-22"
 
 - date: 11/24
   lecturer: Prof. Lengerich
@@ -205,6 +210,7 @@
     - Ouyang et al., <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
   logistics: HW5 Out
   slides: "/dgm-fall-2025/assets/lectures/Lecture_23_posttraining.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-23"
 
 - date: 11/26
   lecturer: Prof. Lengerich
@@ -212,10 +218,13 @@
   readings:
     - Li & Liang, <a href="https://arxiv.org/abs/2101.00190">Prefix-tuning - Optimizing continuous prompts for generation</a>
   slides: "/dgm-fall-2025/assets/lectures/Lecture_24_prompts.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-24"
 
 - date: 12/1
   lecturer: Prof. Lengerich
   title: <strong>Alignment, explainability, and open directions in LLM research</strong>
+  notes: "/dgm-fall-2025/notes/lecture-25"
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_25_alignment.pdf"
 
 - date: 12/3
   lecturer: Prof. Lengerich
